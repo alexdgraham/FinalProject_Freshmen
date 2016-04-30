@@ -131,7 +131,7 @@
     "@screen-sm-max": "(@screen-md-min - 1)",
     "@screen-md-max": "(@screen-lg-min - 1)",
     "@grid-columns": "12",
-    "@grid-gutter-width": "30px",
+    "@grid-gutter-width": "60px",
     "@grid-float-breakpoint": "@screen-sm-min",
     "@grid-float-breakpoint-max": "(@grid-float-breakpoint - 1)",
     "@container-tablet": "(720px + @grid-gutter-width)",
@@ -431,5 +431,5 @@
     "scrollspy.js",
     "transition.js"
   ],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=81fc533ad6d522ec31338def9b97da92"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=2a87fd4b6552de9072cf3cd7a2e33fb1"
 }
